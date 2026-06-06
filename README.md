@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Testando
+Meu nome é Gustavo Gawlak, estudante de cibersegurança da PUCPR.
+-Java 
+-Rust
+-Desenvolvimento Web 
+
